@@ -1,0 +1,16 @@
+{
+"companyName": "Calvin.Inc",
+"productName": "Box Collider Game",
+"productVersion": "0.1",
+"dataUrl": "Website.data.unityweb",
+"wasmCodeUrl": "Website.wasm.code.unityweb",
+"wasmFrameworkUrl": "Website.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
